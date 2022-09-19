@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-We are Mdausoft
+We are Mdausoft.
+The team of highly experienced, solution oriented, and flexible professionals. Our passion is to architect, engineer and deliver best-in-class solutions that help our clients achieve their goals. Our services include Business Process Management (BPM), Workflow Automation, Workflow & Business Process Integration, Data Integration for Business Process Management (DBM), Mobile clients(iOS and Android), Expense Tracking Systems, Reimbursement Systems.
+
 <!--
 
 **Here are some ideas to get you started:**
